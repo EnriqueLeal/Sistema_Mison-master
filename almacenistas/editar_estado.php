@@ -2,6 +2,8 @@
 //incluir conexion
 include'../configuracion/conexion.php';
 //include '../global_seguridad/verificar_sesion.php';
+//TEXTO PRUEBA PARA GIT
+
 
 //Se recuperan las variables GET
 $g_id = $_GET['id'];
